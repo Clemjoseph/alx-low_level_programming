@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * print_trianglr - print triangle with #'s with given size
+ * print_triangle - print triangle with #'s with given size
  * @size: size of triangle to draw
+ * Return: void
  */
 
 void print_triangle(int size)
