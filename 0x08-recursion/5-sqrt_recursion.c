@@ -7,7 +7,7 @@
  * *@n: the function accepts an input saved into n
  * Return: Success (integer)
  */
-int _sqrt_recursion(int n);
+int _sqrt_recursion(int n)
 {
 	int squared = 0;
 
